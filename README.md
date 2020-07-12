@@ -2,6 +2,7 @@
 
 This is a collection of creative and enjoyable GitHub Profile READMEs. Feel free to contribute to this list :)
 
+- [EliteDaMyth](https://github.com/EliteDaMyth) - Profile in Profile in Profile in Profile
 - [bdougie](http://github.com/bdougie) - "MySpace on GitHub" powered by Actions
 - [glasnt](https://github.com/glasnt) - an ASCII art render of their profile
 - [simonw](https://github.com/simonw) - a self-updating profile using GitHub Actions; featured on [Hacker News](https://news.ycombinator.com/item?id=23807881)
