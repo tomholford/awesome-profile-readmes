@@ -8,3 +8,4 @@ This is a collection of creative and enjoyable GitHub Profile READMEs. Feel free
 - [sindresorhus](https://github.com/sindresorhus) - a cheeky loading spinner
 - [terrytangyuan](https://github.com/terrytangyuan) - a collection of badges linking to various platforms
 - [zhiiyang](https://github.com/zhiiiyang) - fetches their latest tweet, renders it to a PNG using headless Chrome (from an R script) and adds it to her profile
+- [tomholford](https://github.com/mpociot) - Spotify now playing + visitor counters. 
